@@ -23,7 +23,7 @@ section {
 }
 
 .second {
-  background-image: url(/images/background2.jpg);
+  background-image: url(images/background2.jpg);
   height: 692px;
   width: 100%;
   background-position: center;
@@ -33,7 +33,7 @@ section {
 }
 
 .third {
-  background-image: url(/images/background3.jpg);
+  background-image: url(images/background3.jpg);
   height: 692px;
   width: 100%;
   background-position: center;
@@ -203,7 +203,7 @@ section {
   width: 942px;
   height: 580px;
   object-fit: cover;
-  background-image: url(/images/image1.jpg);
+  background-image: url(images/image1.jpg);
   background-position: center;
   display: flex;
   align-items: center;
@@ -214,7 +214,7 @@ section {
   width: 942px;
   height: 580px;
   object-fit: cover;
-  background-image: url(/images/image2.jpg);
+  background-image: url(images/image2.jpg);
   background-position: center;
   display: flex;
   align-items: center;
@@ -226,7 +226,7 @@ section {
   width: 942px;
   height: 580px;
   object-fit: cover;
-  background-image: url(/images/image3.jpg);
+  background-image: url(images/image3.jpg);
   background-position: center;
   display: flex;
   align-items: center;
@@ -238,7 +238,7 @@ section {
   width: 942px;
   height: 580px;
   object-fit: cover;
-  background-image: url(/images/image4.jpg);
+  background-image: url(images/image4.jpg);
   background-position: center;
   display: flex;
   align-items: center;
@@ -250,7 +250,7 @@ section {
   width: 942px;
   height: 580px;
   object-fit: cover;
-  background-image: url(/images/image5.jpg);
+  background-image: url(images/image5.jpg);
   background-position: center;
   display: flex;
   align-items: center;
@@ -262,7 +262,7 @@ section {
   width: 942px;
   height: 580px;
   object-fit: cover;
-  background-image: url(/images/image6.jpg);
+  background-image: url(images/image6.jpg);
   background-position: center;
   display: flex;
   align-items: center;
@@ -355,7 +355,7 @@ section {
 }
 
 .main-movie {
-  background-image: url(/images/movie1.png);
+  background-image: url(images/movie1.png);
   min-width: 1250px;
   height: 668px;
   scroll-snap-align: center;
@@ -420,7 +420,7 @@ section {
 }
 
 .link-1 {
-  background-image: url(/images/ime1.jpg);
+  background-image: url(images/ime1.jpg);
   width: 417px;
   height: 236px;
   background-position: center;
@@ -486,7 +486,7 @@ section {
 }
 
 .link-3 {
-  background-image: url(/images/ime3.jpg);
+  background-image: url(images/ime3.jpg);
   background-position: center;
   width: 417px;
   height: 236px;
@@ -510,7 +510,7 @@ section {
 
 .link-4 {
   background-position: center;
-  background-image: url(/images/ime4.jpg);
+  background-image: url(images/ime4.jpg);
   width: 417px;
   height: 236px;
   position: relative;
