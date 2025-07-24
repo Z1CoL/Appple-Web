@@ -5,6 +5,10 @@
   font-family: "Inter", sans-serif;
 }
 
+body {
+  background: rgba(245, 245, 247, 0.8);
+}
+
 nav {
   background: rgba(245, 245, 247, 0.8);
   display: flex;
@@ -14,6 +18,7 @@ nav {
   font-family: "Inter", sans-serif;
   justify-content: center;
   align-items: center;
+  position: fixed;
 }
 
 .nav-gap {
@@ -26,10 +31,12 @@ header {
   justify-content: center;
   align-items: center;
   width: 1920px;
-  padding: 16px 0px;
   gap: 4px;
   font-family: "Inter", sans-serif;
   height: 44px;
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background: #fff;
 }
 
 .ranbow-text {

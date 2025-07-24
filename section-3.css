@@ -43,6 +43,7 @@
   gap: 24px;
   align-self: stretch;
   padding-bottom: 60px;
+  overflow-x: scroll;
 }
 
 .ranbow {
@@ -130,11 +131,11 @@
 }
 
 .product-img-4 {
-  background-image: url(images/product1-4.png);
+  background-image: url(images/product1-4a.jpg);
   min-width: 480px;
   height: 500px;
   border-radius: 20px;
-  object-fit: cover;
+  background-size: cover;
   box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
 }
 
@@ -146,6 +147,7 @@
   gap: 20px;
   align-self: stretch;
   padding-bottom: 60px;
+  overflow-x: scroll;
 }
 
 .product-img1 {
@@ -253,6 +255,7 @@
   gap: 20px;
   align-self: stretch;
   padding-bottom: 60px;
+  overflow-x: scroll;
 }
 
 .text-head {
@@ -296,6 +299,7 @@
   align-items: flex-start;
   gap: 20px;
   align-self: stretch;
+  overflow-x: scroll;
   padding-bottom: 60px;
 }
 
@@ -372,11 +376,11 @@
 }
 
 .product4-img-5 {
-  background-image: url(images/store-card-50-holiday-specialist-help-202411.png);
+  background-image: url(images/pro4-5.jpg);
   min-width: 480px;
   height: 500px;
   border-radius: 20px;
-  object-fit: cover;
+  background-size: cover;
   box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
 }
 
@@ -386,6 +390,7 @@
   flex-direction: row;
   align-items: flex-start;
   gap: 20px;
+  overflow-x: scroll;
   align-self: stretch;
   padding-bottom: 60px;
 }
@@ -486,11 +491,11 @@
 }
 
 .pro5-img4 {
-  background-image: url(images/pro5-4.png);
+  background-image: url(images/pro5-4a.jpg);
   min-width: 480px;
   height: 500px;
   border-radius: 20px;
-  object-fit: cover;
+  background-size: cover;
   box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
 }
 
@@ -524,6 +529,7 @@
   gap: 20px;
   align-self: stretch;
   padding-bottom: 60px;
+  overflow-x: scroll;
 }
 
 .pro6-1 {
@@ -560,4 +566,80 @@
   border-radius: 20px;
   object-fit: cover;
   box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
+}
+
+.pro6-3 {
+  background-image: url(images/pro6-3.png);
+  width: 400px;
+  height: 500px;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
+}
+
+.pro6-4 {
+  background-image: url(images/pro6-4.png);
+  width: 400px;
+  height: 500px;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
+}
+
+.pro5-text-7 {
+  display: flex;
+  width: 306px;
+  height: 96px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #fff;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.pro6-5 {
+  background-image: url(images/pro6-5.jpg);
+  width: 400px;
+  height: 500px;
+  border-radius: 20px;
+  background-size: cover;
+  box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
+}
+
+.heading-text {
+  color: #1d1d1f;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.section7 {
+  display: flex;
+  width: 1920px;
+  padding: 0 140px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  overflow-x: scroll;
+  padding-bottom: 100px;
+}
+
+.last-btns {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  align-self: stretch;
+}
+
+.primary-btn {
+  display: flex;
+  padding: 10px 12px;
+  align-items: center;
+  gap: 8px;
+  border-radius: 999px;
+  border: 1px solid #1d1d1f;
 }
